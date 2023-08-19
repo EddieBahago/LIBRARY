@@ -12,12 +12,11 @@ A Library application where books are stored in array clearly showing reading st
 - **Add or Remove Books from the Library App**:
 - ![Popup input form](https://github.com/EddieBahago/LIBRARY/assets/134744422/deb202d4-4c24-4a95-ac93-7129dc5611ab)
 
-- **Reading Status is deiplayed in pages**:
+- **Reading Status is displayed in pages**:
 - ![Archieved Books](https://github.com/EddieBahago/LIBRARY/assets/134744422/a3b5462d-e033-4541-9d30-eb998f6afe75)
-- 
+  
 - **Archieve all your books**: 
 ## Usage
-
 - Basically to store books
 ## Technologies Used
 - JAVASCRIPT
